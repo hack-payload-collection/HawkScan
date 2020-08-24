@@ -4,6 +4,7 @@
 ?wsdl
 ..%3B/
 ..;/
+..;/manager/html
 ;/..;/
 ;/..;/manager
 %3F.jsp
@@ -140,6 +141,8 @@ wp-admin/admin-ajax.php?action=kbslider_show_image&img=../wp-config.php
 index.php/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
 wp-admin/includes/
 wp-content/uploads/db-backup
+wp-content/uploads/gravity_forms/logs/index.html
+wp-content/uploads/gravity_forms/logs/
 wp-admin.php
 wp-login.php
 wp-includes/
@@ -171,12 +174,13 @@ wp-content/blogs.dir/
 wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
+wp-content/plugins/wordpress-seo/admin/config-ui/
 wp-content/wp-cache-config.php
 wp-content/index.php
 ConfigCache.php
 Filesystem.php
 WebServer.php
-webserver.xml
+webserver.xm
 Security.php
 security.php
 apache2triadcp/
@@ -925,6 +929,9 @@ api/
 api/admin
 api/admin.json
 api/graphql
+api/GetUserV1
+api/GetUserV2
+api/GetUserVBeta
 api.prod
 aplicacion/
 apollo/
@@ -6606,7 +6613,17 @@ api
 api.log
 api/error_log
 api/swagger.yml
+v1/swagger.json
+swagger.json
+swagger-ui/swagger.json
+apidocs/swagger.json
+api-docs/swagger.json
+swagger-ui
+apidocs
 api-doc
+swagger-ui/
+apidocs/
+api-doc/
 api-docs
 api-docs/
 apibuild.pyc
@@ -8420,6 +8437,7 @@ Indy_admin/
 info
 info.%EXT%
 info.json
+pimple.json
 info.php
 info.txt
 infos.php
@@ -8663,6 +8681,7 @@ localsettings.php.save
 localsettings.php.swp
 localsettings.php.txt
 localsettings.php~
+_next/
 log
 log-in
 log-in.php
@@ -11573,6 +11592,10 @@ winners2.php
 winners1.php
 winners.php
 win.ini
+\..\WINDOWS\win.ini
+..%5c..%5c/winnt/system32/cmd.exe?/c+dir+c:\
+.?\.?\.?\etc\passwd
+../../boot.ini
 wic.php
 wia.php
 vote.php
